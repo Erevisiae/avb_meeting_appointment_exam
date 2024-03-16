@@ -34,7 +34,7 @@
         }
 
         /// <summary>
-        /// Use to validate the correctness of meeting object. Check if EndDate is more later than StartDate
+        /// Use to validate the correctness of meeting object. Check if EndDate is later than StartDate
         /// </summary>
         /// <param name="meeting"></param>
         /// <returns>bool</returns>
