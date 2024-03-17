@@ -151,6 +151,12 @@
                     new DateTime(2016, 01, 05, 10, 0, 0),
                     new DateTime(2016, 01, 05, 12, 0, 0)
                 ));
+            _allMeetings.Add(
+                new Meeting
+                (
+                    new DateTime(2016, 01, 01, 11, 0, 0),
+                    new DateTime(2016, 01, 01, 14, 0, 0)
+                ));
         }
     }
 }
